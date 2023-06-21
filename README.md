@@ -8,9 +8,9 @@ The problem statement for this problem can be found on [Polygon](https://polygon
 
 ## Repository Structure
 
-- `problem.md`: The problem statement in Markdown format.
-- `generator.cpp`: The test case generator code.
-- `solution.cpp`: The solution code.
+- `ProblemStatement.md`: The problem statement in Markdown format.
+- `TestGenerator.cpp`: The test case generator code.
+- `main.cpp`: The solution code.
 - `editorial.md`: The editorial explaining the solution approach and implementation details.
 
 ## Usage
